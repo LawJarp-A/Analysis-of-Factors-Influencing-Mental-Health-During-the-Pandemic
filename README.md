@@ -1,4 +1,4 @@
-# Data-Analytics-Project
+# Analysis of Factors Influencing Mental Health During the Pandemic
 Repo for project titled - Analysis of factors influencing mental health during the Pandemic, done as a part of the Data Analytics ( UE19CS312 ) course at PES University.
 
 This project aims to observe the degree by which trust in various authorities, sources of information and methods of coping influence levels of stress in certainpopulations. We also aim to take into consideration factors such as the country’s average expenditure on healthcare in the past decade along with stringency scores that indicate the level of
